@@ -4,7 +4,6 @@ The routing used in this sample code requires a Web Server to serve the view tem
 
 The *easiest* way to run the code from this point forward is to use an IDE such as WebStorm or Visual Studio.
 
-
-- You can set up IIS/IIS Express
+ You can set up IIS/IIS Express
 Then you can execute this code using http://localHost:xxx/index.html
 
